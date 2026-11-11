@@ -1,0 +1,6 @@
+{
+  "name": "SAMS Licitações - Gestão & Auditoria",
+  "description": "Painel de controle, dashboards, operações de inserção, edição, exclusão e consultas com auditoria integral para o banco de dados licitacoes_sams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
